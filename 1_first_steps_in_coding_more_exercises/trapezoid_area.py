@@ -1,0 +1,6 @@
+a = float(input())
+b = float(input())
+c = float(input())
+d = ((a + b) * c / 2)
+f = "{:.2f}".format(d)
+print(f)
